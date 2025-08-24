@@ -27,6 +27,8 @@ The report is designed to help executives quickly understand performance across 
 
 ## 📸 Dashboard Preview
 
+![Image Alt](https://github.com/hollyphan/Power-BI/blob/f25d30e184bc725c99d4e21983f0d8a9420f4c37/Plant%20Co.%20Dashboard.png)
+
 ---
 
 ## 🚀 Business Impact
