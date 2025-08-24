@@ -1,42 +1,36 @@
-# Plant Co. Performance Dashboard (Power BI Portfolio Project)
+# 🌱 Plant Company Performance Report (Power BI Project)
 
-## Project Overview
-The goal is to analyze the performance of a fictional plant company across sales, quantity, and profitability, and to present the results in an interactive Power BI dashboard for business decision-making.  
+**Date:** Aug 2025  
 
----
+## 📌 Project Overview
+This project is an **interactive Power BI dashboard** analyzing **Plant Co.’s global sales, quantity, and profitability**.  
 
-## Business Problem
-Plant Co. wants to better understand its global performance. Key questions include:
-- Which countries and regions are driving the most sales and profit?
-- How do sales and quantity trends vary year-over-year?
-- What are the weakest performing markets that need attention?
-- Which product categories are underperforming or outperforming expectations?
-
-This dashboard provides stakeholders with an end-to-end performance view to identify opportunities for growth and areas requiring improvement.  
+The report is designed to help executives quickly understand performance across regions and products, identify profit drivers, and guide strategic business decisions.  
 
 ---
 
-## Tools & Skills Demonstrated
-- **Power BI**
-  - Data cleaning and transformation with Power Query
-  - Data modeling with relationships and calculated columns
-  - DAX measures (e.g., Year-over-Year comparisons, Switch Measures)
-  - Dynamic visuals with filters and slicers
-  - Conditional formatting for better storytelling
-- **Dashboard Design**
-  - Custom color palette and layout
-  - Consistent formatting and alignment for professional presentation
-  - Enhanced usability through improved navigation and visual hierarchy
-- **Business Analysis**
-  - Market performance evaluation
-  - Bottom country and top country comparisons
-  - Profitability and growth trend analysis
+## 🛠 Tools & Skills Used
+- **Microsoft Power BI**  
+- **Power Query** for data transformation  
+- **DAX (Data Analysis Expressions)** for calculated measures  
+- Interactive visuals, filters, and drilldowns  
+- Data storytelling & professional dashboard design  
 
 ---
 
-## Key Insights
-- Significant sales concentration in a few high-performing regions.
-- Several countries are consistently underperforming, creating opportunities for targeted strategies.
-- Profit margins vary widely across product categories, suggesting opportunities to optimize the product mix.
-- Year-over-Year analysis highlights growth opportunities in specific markets while flagging declining regions.
+## 📊 Key Insights
+- **Global Sales Trends:** Identified top-performing regions contributing the highest revenue  
+- **Product Profitability:** Certain product categories drove the majority of profits, while others underperformed  
+- **Quantity vs. Profit:** High-volume items didn’t always equal high profitability, suggesting pricing strategy adjustments  
 
+---
+
+## 📸 Dashboard Preview
+
+---
+
+## 🚀 Business Impact
+If implemented in a real-world business setting, this dashboard would:  
+- Enable leadership to **monitor global sales & profitability in real time**  
+- Highlight underperforming regions and product categories  
+- Support **data-driven resource allocation and strategy**  
